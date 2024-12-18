@@ -1,1 +1,6 @@
+User-agent: *
+Disallow:
+Disallow:
+Allow: /public/
 
+Sitemap: https://byte-meuh.tech/sitemap.xml

@@ -41,17 +41,18 @@ const articles = ref<Article[]>([
   {
     id: 1,
     title: "L'élevage de vaches",
-    slug: "article-1",
+    slug: "vaches",
     excerpt: "Découvrez tout sur l'élevage des vaches, un article détaillé sur les bonnes pratiques en agriculture.",
     imageUrl: "/img/vache.jpg", // L'image pour la prévisualisation
   },
   {
     id: 2,
     title: "La gestion des troupeaux",
-    slug: "article-2",
+    slug: "troupeaux",
     excerpt: "Une exploration approfondie sur la gestion efficace d'un troupeau de vaches et l'optimisation des rendements.",
     imageUrl: "/img/vache2.jpg",
-  }
+  },
+  
 ]);
 </script>
 

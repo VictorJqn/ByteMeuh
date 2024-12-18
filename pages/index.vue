@@ -18,6 +18,14 @@
 
 <style scoped>
 /* Container principal */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 .home-container {
   display: flex;
   justify-content: center;
