@@ -1,6 +1,5 @@
 User-agent: *
-Disallow:
-Disallow:
-Allow: /public/
+Disallow: /admin/
+Allow: /
 
 Sitemap: https://byte-meuh.tech/sitemap.xml

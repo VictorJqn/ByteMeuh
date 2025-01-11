@@ -15,8 +15,14 @@ import Navbar from '~/layouts/Navbar.vue'
 
 <style scoped>
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
 main {
   padding: 20px;
-  background-color: #f4f7fa;
+  background-color: #ecf0f1;
 }
 </style>

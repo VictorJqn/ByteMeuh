@@ -52,6 +52,27 @@ const articles = ref<Article[]>([
     excerpt: "Une exploration approfondie sur la gestion efficace d'un troupeau de vaches et l'optimisation des rendements.",
     imageUrl: "/img/vache2.jpg",
   },
+  {
+    id: 3,
+    title: 'Alimentation équilibrée',
+    slug: 'alimentation',
+    excerpt: "Découvrez les secrets d'une alimentation équilibrée pour les vaches et comment cela affecte leur santé et leur production.",
+    imageUrl: "/img/alimentation.jpg",
+  },
+  {
+    id: 4,
+    title: 'Santé des vaches',
+    slug: 'sante',
+    excerpt: "Un guide complet sur la santé des vaches, les maladies courantes et les meilleures pratiques pour maintenir un troupeau en bonne santé.",
+    imageUrl: "/img/sante.jpg",
+  },
+  {
+    id: 5,
+    title: 'Bien-être des vaches',
+    slug: 'bien-etre',
+    excerpt: "L'importance du bien-être des vaches dans l'agriculture moderne et comment des pratiques respectueuses peuvent améliorer leur qualité de vie.",
+    imageUrl: "/img/bien-etre.jpg",
+  }
   
 ]);
 </script>
